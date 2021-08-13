@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%20Vishalk29/Monster-Game/static/css/main.a48a563a.chunk.css",
+    "main.js": "/%20Vishalk29/Monster-Game/static/js/main.2755d486.chunk.js",
+    "main.js.map": "/%20Vishalk29/Monster-Game/static/js/main.2755d486.chunk.js.map",
+    "runtime-main.js": "/%20Vishalk29/Monster-Game/static/js/runtime-main.f55adc07.js",
+    "runtime-main.js.map": "/%20Vishalk29/Monster-Game/static/js/runtime-main.f55adc07.js.map",
+    "static/js/2.e5382c98.chunk.js": "/%20Vishalk29/Monster-Game/static/js/2.e5382c98.chunk.js",
+    "static/js/2.e5382c98.chunk.js.map": "/%20Vishalk29/Monster-Game/static/js/2.e5382c98.chunk.js.map",
+    "static/js/3.47e7b2ef.chunk.js": "/%20Vishalk29/Monster-Game/static/js/3.47e7b2ef.chunk.js",
+    "static/js/3.47e7b2ef.chunk.js.map": "/%20Vishalk29/Monster-Game/static/js/3.47e7b2ef.chunk.js.map",
+    "index.html": "/%20Vishalk29/Monster-Game/index.html",
+    "static/css/main.a48a563a.chunk.css.map": "/%20Vishalk29/Monster-Game/static/css/main.a48a563a.chunk.css.map",
+    "static/js/2.e5382c98.chunk.js.LICENSE.txt": "/%20Vishalk29/Monster-Game/static/js/2.e5382c98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f55adc07.js",
+    "static/js/2.e5382c98.chunk.js",
+    "static/css/main.a48a563a.chunk.css",
+    "static/js/main.2755d486.chunk.js"
+  ]
+}
